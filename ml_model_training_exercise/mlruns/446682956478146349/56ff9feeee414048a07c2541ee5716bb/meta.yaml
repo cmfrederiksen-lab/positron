@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/cmfrederiksen/projects/coding/python/model_training_exercise/mlruns/446682956478146349/56ff9feeee414048a07c2541ee5716bb/artifacts
+end_time: 1780833394456
+entry_point_name: ''
+experiment_id: '446682956478146349'
+lifecycle_stage: active
+run_id: 56ff9feeee414048a07c2541ee5716bb
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833392958
+status: 3
+tags: []
+user_id: cmfrederiksen

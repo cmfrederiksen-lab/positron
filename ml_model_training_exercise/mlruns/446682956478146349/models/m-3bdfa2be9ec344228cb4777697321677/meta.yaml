@@ -1,0 +1,10 @@
+artifact_location: file:///Users/cmfrederiksen/projects/coding/python/model_training_exercise/mlruns/446682956478146349/models/m-3bdfa2be9ec344228cb4777697321677/artifacts
+creation_timestamp: 1780833394476
+experiment_id: '446682956478146349'
+last_updated_timestamp: 1780833395621
+model_id: m-3bdfa2be9ec344228cb4777697321677
+model_type: null
+name: Logistic_Regression_model
+source_run_id: b161d7c07db94e0190656b46358093a3
+status: 2
+status_message: null

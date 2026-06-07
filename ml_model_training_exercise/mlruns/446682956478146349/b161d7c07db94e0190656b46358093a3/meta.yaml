@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/cmfrederiksen/projects/coding/python/model_training_exercise/mlruns/446682956478146349/b161d7c07db94e0190656b46358093a3/artifacts
+end_time: 1780833395627
+entry_point_name: ''
+experiment_id: '446682956478146349'
+lifecycle_stage: active
+run_id: b161d7c07db94e0190656b46358093a3
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780833394457
+status: 3
+tags: []
+user_id: cmfrederiksen

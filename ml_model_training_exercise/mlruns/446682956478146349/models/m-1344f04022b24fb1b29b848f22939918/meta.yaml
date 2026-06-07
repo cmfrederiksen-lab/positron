@@ -1,0 +1,10 @@
+artifact_location: file:///Users/cmfrederiksen/projects/coding/python/model_training_exercise/mlruns/446682956478146349/models/m-1344f04022b24fb1b29b848f22939918/artifacts
+creation_timestamp: 1780833393044
+experiment_id: '446682956478146349'
+last_updated_timestamp: 1780833394450
+model_id: m-1344f04022b24fb1b29b848f22939918
+model_type: null
+name: Random_Forest_model
+source_run_id: 56ff9feeee414048a07c2541ee5716bb
+status: 2
+status_message: null

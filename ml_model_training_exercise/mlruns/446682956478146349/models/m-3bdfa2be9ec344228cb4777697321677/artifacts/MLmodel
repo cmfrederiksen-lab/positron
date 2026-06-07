@@ -1,0 +1,22 @@
+artifact_path: file:///Users/cmfrederiksen/projects/coding/python/model_training_exercise/mlruns/446682956478146349/models/m-3bdfa2be9ec344228cb4777697321677/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-3bdfa2be9ec344228cb4777697321677
+model_size_bytes: 957
+model_uuid: m-3bdfa2be9ec344228cb4777697321677
+prompts: null
+run_id: b161d7c07db94e0190656b46358093a3
+utc_time_created: '2026-06-07 11:56:34.482015'
