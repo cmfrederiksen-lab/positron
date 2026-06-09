@@ -1,0 +1,18 @@
+# Generer Syntetisk Data
+
+python generate_cohort.py
+
+# Udforsk Data (EDA Dashboard)
+
+uv run streamlit run app.py
+
+# Træn Modellerne
+
+python train_models.py
+
+# Udforsk ML-Pipelinen (Pipeline Dashboard)
+
+uv run streamlit run pipeline_app.py
+
+
+
